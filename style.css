@@ -1,0 +1,14 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.container h1{
+    text-align: center;
+}
+.container1 img{
+    border: solid;
+    margin: 5px;
+}
+.container1 h2{
+    text-align: center;
+}
